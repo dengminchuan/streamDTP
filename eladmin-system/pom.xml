@@ -86,6 +86,17 @@
             <artifactId>oshi-core</artifactId>
             <version>6.1.4</version>
         </dependency>
+<!--        添加-->
+        <dependency>
+            <groupId>com.github.ben-manes.caffeine</groupId>
+            <artifactId>caffeine</artifactId>
+            <version>2.6.0</version>
+        </dependency>
+        <dependency>
+            <groupId>nl.basjes.collections</groupId>
+            <artifactId>prefixmap</artifactId>
+            <version>2.0</version>
+        </dependency>
     </dependencies>
 
     <!-- 打包 -->
